@@ -1,0 +1,6 @@
+framework module Pods_CalcRentCost_CalcRentCostUITests {
+  umbrella header "Pods-CalcRentCost-CalcRentCostUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
